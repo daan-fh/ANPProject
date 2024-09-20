@@ -1,0 +1,9 @@
+/home/daan1809/ANPProject/anp-2024-skeleton-main/build/CMakeFiles/install.dir
+/home/daan1809/ANPProject/anp-2024-skeleton-main/build/CMakeFiles/list_install_components.dir
+/home/daan1809/ANPProject/anp-2024-skeleton-main/build/CMakeFiles/rebuild_cache.dir
+/home/daan1809/ANPProject/anp-2024-skeleton-main/build/CMakeFiles/edit_cache.dir
+/home/daan1809/ANPProject/anp-2024-skeleton-main/build/CMakeFiles/install/strip.dir
+/home/daan1809/ANPProject/anp-2024-skeleton-main/build/CMakeFiles/anp_client.dir
+/home/daan1809/ANPProject/anp-2024-skeleton-main/build/CMakeFiles/anp_server.dir
+/home/daan1809/ANPProject/anp-2024-skeleton-main/build/CMakeFiles/install/local.dir
+/home/daan1809/ANPProject/anp-2024-skeleton-main/build/CMakeFiles/anpnetstack.dir
