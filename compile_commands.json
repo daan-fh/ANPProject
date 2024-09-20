@@ -1,0 +1,87 @@
+[
+{
+  "directory": "/home/daan1809/ANPProject/anp-2024-skeleton-main",
+  "command": "/usr/bin/cc   -g   -o CMakeFiles/anp_client.dir/server-client/tcp_client.c.o   -c /home/daan1809/ANPProject/anp-2024-skeleton-main/server-client/tcp_client.c",
+  "file": "/home/daan1809/ANPProject/anp-2024-skeleton-main/server-client/tcp_client.c"
+},
+{
+  "directory": "/home/daan1809/ANPProject/anp-2024-skeleton-main",
+  "command": "/usr/bin/cc   -g   -o CMakeFiles/anp_client.dir/server-client/common.c.o   -c /home/daan1809/ANPProject/anp-2024-skeleton-main/server-client/common.c",
+  "file": "/home/daan1809/ANPProject/anp-2024-skeleton-main/server-client/common.c"
+},
+{
+  "directory": "/home/daan1809/ANPProject/anp-2024-skeleton-main",
+  "command": "/usr/bin/cc   -g   -o CMakeFiles/anp_server.dir/server-client/tcp_server.c.o   -c /home/daan1809/ANPProject/anp-2024-skeleton-main/server-client/tcp_server.c",
+  "file": "/home/daan1809/ANPProject/anp-2024-skeleton-main/server-client/tcp_server.c"
+},
+{
+  "directory": "/home/daan1809/ANPProject/anp-2024-skeleton-main",
+  "command": "/usr/bin/cc   -g   -o CMakeFiles/anp_server.dir/server-client/common.c.o   -c /home/daan1809/ANPProject/anp-2024-skeleton-main/server-client/common.c",
+  "file": "/home/daan1809/ANPProject/anp-2024-skeleton-main/server-client/common.c"
+},
+{
+  "directory": "/home/daan1809/ANPProject/anp-2024-skeleton-main",
+  "command": "/usr/bin/cc -Danpnetstack_EXPORTS -I/home/daan1809/ANPProject/anp-2024-skeleton-main/src -I/home/daan1809/ANPProject/anp-2024-skeleton-main/include  -g -fPIC   -o CMakeFiles/anpnetstack.dir/src/init.c.o   -c /home/daan1809/ANPProject/anp-2024-skeleton-main/src/init.c",
+  "file": "/home/daan1809/ANPProject/anp-2024-skeleton-main/src/init.c"
+},
+{
+  "directory": "/home/daan1809/ANPProject/anp-2024-skeleton-main",
+  "command": "/usr/bin/cc -Danpnetstack_EXPORTS -I/home/daan1809/ANPProject/anp-2024-skeleton-main/src -I/home/daan1809/ANPProject/anp-2024-skeleton-main/include  -g -fPIC   -o CMakeFiles/anpnetstack.dir/src/tap_netdev.c.o   -c /home/daan1809/ANPProject/anp-2024-skeleton-main/src/tap_netdev.c",
+  "file": "/home/daan1809/ANPProject/anp-2024-skeleton-main/src/tap_netdev.c"
+},
+{
+  "directory": "/home/daan1809/ANPProject/anp-2024-skeleton-main",
+  "command": "/usr/bin/cc -Danpnetstack_EXPORTS -I/home/daan1809/ANPProject/anp-2024-skeleton-main/src -I/home/daan1809/ANPProject/anp-2024-skeleton-main/include  -g -fPIC   -o CMakeFiles/anpnetstack.dir/src/utilities.c.o   -c /home/daan1809/ANPProject/anp-2024-skeleton-main/src/utilities.c",
+  "file": "/home/daan1809/ANPProject/anp-2024-skeleton-main/src/utilities.c"
+},
+{
+  "directory": "/home/daan1809/ANPProject/anp-2024-skeleton-main",
+  "command": "/usr/bin/cc -Danpnetstack_EXPORTS -I/home/daan1809/ANPProject/anp-2024-skeleton-main/src -I/home/daan1809/ANPProject/anp-2024-skeleton-main/include  -g -fPIC   -o CMakeFiles/anpnetstack.dir/src/anp_netdev.c.o   -c /home/daan1809/ANPProject/anp-2024-skeleton-main/src/anp_netdev.c",
+  "file": "/home/daan1809/ANPProject/anp-2024-skeleton-main/src/anp_netdev.c"
+},
+{
+  "directory": "/home/daan1809/ANPProject/anp-2024-skeleton-main",
+  "command": "/usr/bin/cc -Danpnetstack_EXPORTS -I/home/daan1809/ANPProject/anp-2024-skeleton-main/src -I/home/daan1809/ANPProject/anp-2024-skeleton-main/include  -g -fPIC   -o CMakeFiles/anpnetstack.dir/src/anpwrapper.c.o   -c /home/daan1809/ANPProject/anp-2024-skeleton-main/src/anpwrapper.c",
+  "file": "/home/daan1809/ANPProject/anp-2024-skeleton-main/src/anpwrapper.c"
+},
+{
+  "directory": "/home/daan1809/ANPProject/anp-2024-skeleton-main",
+  "command": "/usr/bin/cc -Danpnetstack_EXPORTS -I/home/daan1809/ANPProject/anp-2024-skeleton-main/src -I/home/daan1809/ANPProject/anp-2024-skeleton-main/include  -g -fPIC   -o CMakeFiles/anpnetstack.dir/src/arp.c.o   -c /home/daan1809/ANPProject/anp-2024-skeleton-main/src/arp.c",
+  "file": "/home/daan1809/ANPProject/anp-2024-skeleton-main/src/arp.c"
+},
+{
+  "directory": "/home/daan1809/ANPProject/anp-2024-skeleton-main",
+  "command": "/usr/bin/cc -Danpnetstack_EXPORTS -I/home/daan1809/ANPProject/anp-2024-skeleton-main/src -I/home/daan1809/ANPProject/anp-2024-skeleton-main/include  -g -fPIC   -o CMakeFiles/anpnetstack.dir/src/subuff.c.o   -c /home/daan1809/ANPProject/anp-2024-skeleton-main/src/subuff.c",
+  "file": "/home/daan1809/ANPProject/anp-2024-skeleton-main/src/subuff.c"
+},
+{
+  "directory": "/home/daan1809/ANPProject/anp-2024-skeleton-main",
+  "command": "/usr/bin/cc -Danpnetstack_EXPORTS -I/home/daan1809/ANPProject/anp-2024-skeleton-main/src -I/home/daan1809/ANPProject/anp-2024-skeleton-main/include  -g -fPIC   -o CMakeFiles/anpnetstack.dir/src/route.c.o   -c /home/daan1809/ANPProject/anp-2024-skeleton-main/src/route.c",
+  "file": "/home/daan1809/ANPProject/anp-2024-skeleton-main/src/route.c"
+},
+{
+  "directory": "/home/daan1809/ANPProject/anp-2024-skeleton-main",
+  "command": "/usr/bin/cc -Danpnetstack_EXPORTS -I/home/daan1809/ANPProject/anp-2024-skeleton-main/src -I/home/daan1809/ANPProject/anp-2024-skeleton-main/include  -g -fPIC   -o CMakeFiles/anpnetstack.dir/src/timer.c.o   -c /home/daan1809/ANPProject/anp-2024-skeleton-main/src/timer.c",
+  "file": "/home/daan1809/ANPProject/anp-2024-skeleton-main/src/timer.c"
+},
+{
+  "directory": "/home/daan1809/ANPProject/anp-2024-skeleton-main",
+  "command": "/usr/bin/cc -Danpnetstack_EXPORTS -I/home/daan1809/ANPProject/anp-2024-skeleton-main/src -I/home/daan1809/ANPProject/anp-2024-skeleton-main/include  -g -fPIC   -o CMakeFiles/anpnetstack.dir/src/ip_rx.c.o   -c /home/daan1809/ANPProject/anp-2024-skeleton-main/src/ip_rx.c",
+  "file": "/home/daan1809/ANPProject/anp-2024-skeleton-main/src/ip_rx.c"
+},
+{
+  "directory": "/home/daan1809/ANPProject/anp-2024-skeleton-main",
+  "command": "/usr/bin/cc -Danpnetstack_EXPORTS -I/home/daan1809/ANPProject/anp-2024-skeleton-main/src -I/home/daan1809/ANPProject/anp-2024-skeleton-main/include  -g -fPIC   -o CMakeFiles/anpnetstack.dir/src/ip_tx.c.o   -c /home/daan1809/ANPProject/anp-2024-skeleton-main/src/ip_tx.c",
+  "file": "/home/daan1809/ANPProject/anp-2024-skeleton-main/src/ip_tx.c"
+},
+{
+  "directory": "/home/daan1809/ANPProject/anp-2024-skeleton-main",
+  "command": "/usr/bin/cc -Danpnetstack_EXPORTS -I/home/daan1809/ANPProject/anp-2024-skeleton-main/src -I/home/daan1809/ANPProject/anp-2024-skeleton-main/include  -g -fPIC   -o CMakeFiles/anpnetstack.dir/src/icmp.c.o   -c /home/daan1809/ANPProject/anp-2024-skeleton-main/src/icmp.c",
+  "file": "/home/daan1809/ANPProject/anp-2024-skeleton-main/src/icmp.c"
+},
+{
+  "directory": "/home/daan1809/ANPProject/anp-2024-skeleton-main",
+  "command": "/usr/bin/cc -Danpnetstack_EXPORTS -I/home/daan1809/ANPProject/anp-2024-skeleton-main/src -I/home/daan1809/ANPProject/anp-2024-skeleton-main/include  -g -fPIC   -o CMakeFiles/anpnetstack.dir/src/tcp.c.o   -c /home/daan1809/ANPProject/anp-2024-skeleton-main/src/tcp.c",
+  "file": "/home/daan1809/ANPProject/anp-2024-skeleton-main/src/tcp.c"
+}
+]
